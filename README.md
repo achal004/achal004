@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @achal004
+- 👋 Hi, I’m @achal
 - 👀 I’m interested in ...phthon
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
